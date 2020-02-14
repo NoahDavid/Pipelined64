@@ -14,6 +14,7 @@ Here is a list of the ones that I used to test the processor:
 | MegaFunction | Function |
 | ----------- | ----------- |
 | RAM: 2-PORT | Main Memory/Program Memory |
+
 I connected one of the RAM ports to the program memory connection on the processor, and the other one to the data memory connection.
 
 ## Setup
