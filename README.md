@@ -22,4 +22,8 @@ I connected one of the RAM ports to the program memory connection on the process
 Create a project in Quartus, and create a top-level design file (preferably with a dual port RAM instance to connect to the processor). Copy all the verilog design files from the repository into the project directory, and add them to the project. Create all the necessary MegaFunctions and add them to the project.
 More detailed instructions coming soon!
 
+## Problems and Incomplete Features
+---
+Most notably, the Pipeline interlock has not been implemented. Any hazards must be planned for in the code, as of right now...
+
 *: I'm not entirely sure if they are all technically called MegaFunctions, but you get the point...
